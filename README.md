@@ -1,2 +1,2 @@
 # Codeigniter3
-Sistem Penilaian Siswa Sekolah Dasar menggunakan 
+Sistem Penilaian Siswa Sekolah Dasar
